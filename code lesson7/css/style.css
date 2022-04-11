@@ -1,0 +1,33 @@
+body {
+  background-color: #333;
+}
+
+h1, p {
+  color: aqua;
+}
+
+.center {
+  text-align: center;
+}
+
+#head {
+  background-color: blueviolet;
+}
+
+div {
+  background-color: rgb(14, 170, 0);
+}
+
+header h2 {
+  background-color: green;
+  font-size: 40px;
+}
+
+.spanclass {
+  color: #fff;
+}
+
+.spanclass span {
+  color: red;
+}
+/* commnets */
