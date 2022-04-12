@@ -1,0 +1,33 @@
+body {
+    width: fit-content;
+    background-color: #4f696a;
+    width: auto;
+}
+.birinchi {
+    margin-left: 500px;
+    text-align: center;
+    background-color: rgb(16, 32, 32);
+    width: 450px;
+    height: 500px;
+    text-transform: uppercase;
+    color: white;
+    font-family: 'Cormorant Garamond', serif;
+}
+.ikkinchi {
+    letter-spacing: 5px;
+    word-spacing: 2px;
+    padding-top: 2%;
+    margin: 20%;
+}
+p {
+    
+    font-size: 15px;
+    word-spacing: 2px;
+}
+span {
+    font-size: 6px;
+    letter-spacing: 2px;
+}
+img {
+    width: 150px;
+}
